@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weather_report</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <item name="Tag_APP" type="id"></item>
+    <item name="Tag_Book" type="id"></item>
+</resources>
